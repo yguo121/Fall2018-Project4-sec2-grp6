@@ -1,4 +1,4 @@
-# Project: OCR (Optical Character Recognition) 
+# Project 4: OCR (Optical Character Recognition) Post-Processing
 
 **Instruction**: Please open and run [detection_and_correction.ipynb](detection_and_correction.ipynb) for grading and assessment.
 
